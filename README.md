@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = "https://media2.giphy.com/media/ko7twHhomhk8E/giphy.gif" width = "820px" height = "30px">
+<img src = "https://media2.giphy.com/media/ko7twHhomhk8E/giphy.gif" width = "820px" height = "60px">
 
 <center>
       <div>
