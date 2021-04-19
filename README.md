@@ -1,7 +1,6 @@
 ### 👻
 
-<img src = "https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width = "40px" height = "40px">
-<img src = "https://media4.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width = "40px" height = "40px">
+<img src = "https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width = "40px" height = "40px"><img src = "https://media4.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width = "40px" height = "40px">
 
 <center>
       <div>
