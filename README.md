@@ -1,4 +1,4 @@
-<img src = "https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width = "40px" height = "40px">  <img src = "https://media4.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width = "40px" height = "40px">  <img src = "https://media0.giphy.com/media/LkZn0zTpjnpGxEeDRU/giphy.gif" width = "20px" height = "40px">
+<img src = "https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width = "40px" height = "40px">  <img src = "https://media4.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width = "40px" height = "40px">
 
 <center>
       <div>
@@ -6,6 +6,8 @@
            <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovkir&theme=algolia&count_private=true&hide=html&layout=compact" /> </td>
       </div>
 </center>
+
+<img src = "https://media0.giphy.com/media/LkZn0zTpjnpGxEeDRU/giphy.gif" width = "70px" height = "140px">
 
 <!--
 **kovkir/kovkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
